@@ -16,6 +16,10 @@
       "name": "Experimentalserver.com",
       "description": "Experimental BIMserver",
       "listUrl": "https://thisisanexperimentalserver.com/servicelist"
+    }, {
+      "name": "ifcanalysis.bimserver.services",
+      "description": "Experimental services provider",
+      "listUrl": "https://ifcanalysis.bimserver.services/servicelist"
     }
   ]
 }
